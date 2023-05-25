@@ -1,0 +1,17 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 10px solid rgb(191, 188, 188);
+}
+
+.box .ip{
+    margin: 15px;
+}
+
+.box .span{
+    color: brown;
+}
